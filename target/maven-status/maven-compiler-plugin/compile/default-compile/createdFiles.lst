@@ -1,1 +1,6 @@
+NotaDoctor\NotADoctor\models\usermodels\ImmutableName.class
+NotaDoctor\NotADoctor\models\usermodels\User.class
+NotaDoctor\NotADoctor\models\usermodels\ImmutableAddress.class
+NotaDoctor\NotADoctor\models\usermodels\Address.class
+NotaDoctor\NotADoctor\models\usermodels\Name.class
 NotaDoctor\NotADoctor\NotADoctorApplication.class

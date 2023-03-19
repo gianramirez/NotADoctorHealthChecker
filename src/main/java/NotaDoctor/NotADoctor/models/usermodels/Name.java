@@ -1,2 +1,7 @@
-package NotaDoctor.NotADoctor.models.usermodels;public class Name {
+package NotaDoctor.NotADoctor.models.usermodels;
+
+public interface Name {
+    String getFirstName();
+    String getLastName();
+    String getSuffix();
 }

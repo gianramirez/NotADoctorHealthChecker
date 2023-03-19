@@ -1,4 +1,4 @@
-package NotaDoctor.NotADoctor.models;
+package NotaDoctor.NotADoctor.models.usermodels;
 
 import NotaDoctor.NotADoctor.models.usermodels.*;
 import org.junit.jupiter.api.Assertions;
