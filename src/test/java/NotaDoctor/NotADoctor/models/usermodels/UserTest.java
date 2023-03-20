@@ -19,7 +19,7 @@ class UserTest {
 //        assertEquals("Doe", user.getName().getLastName());
 //        assertEquals("Jr.", user.getName().getSuffix());
 //    }
-
+//
 //    @Test
 //    public void testGetName() {
 //        User user = new User("John", "Doe", "Jr.", "123 Deer Run", "Apt 1", "Columbus", "OH", 43116);
