@@ -1,6 +1,12 @@
-NotaDoctor\NotADoctor\models\usermodels\ImmutableName.class
-NotaDoctor\NotADoctor\models\usermodels\User.class
+NotaDoctor\NotADoctor\models\Symptoms.class
+NotaDoctor\NotADoctor\NotADoctorApplication.class
+NotaDoctor\NotADoctor\repositories\UserRepository.class
 NotaDoctor\NotADoctor\models\usermodels\ImmutableAddress.class
+NotaDoctor\NotADoctor\controllers\SymptomsController.class
+NotaDoctor\NotADoctor\populator.class
 NotaDoctor\NotADoctor\models\usermodels\Address.class
 NotaDoctor\NotADoctor\models\usermodels\Name.class
-NotaDoctor\NotADoctor\NotADoctorApplication.class
+NotaDoctor\NotADoctor\controllers\UserController.class
+NotaDoctor\NotADoctor\repositories\SymptomsRepository.class
+NotaDoctor\NotADoctor\models\usermodels\User.class
+NotaDoctor\NotADoctor\models\usermodels\ImmutableName.class

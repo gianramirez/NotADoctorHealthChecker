@@ -8,10 +8,10 @@ import javax.annotation.Resource;
 @RestController
 public class UserController {
 
-    @Resource
-    private UserRepository userRepo;
-
-//    @GetMapping("/user/{id}")
+//    @Resource
+//    private UserRepository userRepo;
+//
+////    @GetMapping("/user/{id}")
 
 
 

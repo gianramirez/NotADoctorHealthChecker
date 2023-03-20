@@ -1,1 +1,12 @@
+NotaDoctor\NotADoctor\repositories\UserRepositoryTest.class
+NotaDoctor\NotADoctor\models\usermodels\UserTest.class
+NotaDoctor\NotADoctor\controllers\UserControllerTest.class
+NotaDoctor\NotADoctor\models\SymptomsTest.class
+NotaDoctor\NotADoctor\populatorTest.class
 NotaDoctor\NotADoctor\NotADoctorApplicationTests.class
+NotaDoctor\NotADoctor\models\usermodels\NameTest.class
+NotaDoctor\NotADoctor\repositories\SymptomsRepositoryTest.class
+NotaDoctor\NotADoctor\models\usermodels\AddressTest.class
+NotaDoctor\NotADoctor\models\usermodels\ImmutableAddressTest.class
+NotaDoctor\NotADoctor\models\usermodels\ImmutableNameTest.class
+NotaDoctor\NotADoctor\controllers\UserControllerTestTest.class

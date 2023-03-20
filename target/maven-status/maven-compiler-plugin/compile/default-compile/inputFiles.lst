@@ -1,8 +1,12 @@
 C:\Users\Owner\Documents\PROJECTS\NotADoctor\src\main\java\NotaDoctor\NotADoctor\models\Symptoms.java
+C:\Users\Owner\Documents\PROJECTS\NotADoctor\src\main\java\NotaDoctor\NotADoctor\models\usermodels\Address.java
 C:\Users\Owner\Documents\PROJECTS\NotADoctor\src\main\java\NotaDoctor\NotADoctor\NotADoctorApplication.java
 C:\Users\Owner\Documents\PROJECTS\NotADoctor\src\main\java\NotaDoctor\NotADoctor\controllers\SymptomsController.java
-C:\Users\Owner\Documents\PROJECTS\NotADoctor\src\main\java\NotaDoctor\NotADoctor\models\User.java
 C:\Users\Owner\Documents\PROJECTS\NotADoctor\src\main\java\NotaDoctor\NotADoctor\repositories\UserRepository.java
+C:\Users\Owner\Documents\PROJECTS\NotADoctor\src\main\java\NotaDoctor\NotADoctor\models\usermodels\User.java
 C:\Users\Owner\Documents\PROJECTS\NotADoctor\src\main\java\NotaDoctor\NotADoctor\repositories\SymptomsRepository.java
+C:\Users\Owner\Documents\PROJECTS\NotADoctor\src\main\java\NotaDoctor\NotADoctor\models\usermodels\Name.java
+C:\Users\Owner\Documents\PROJECTS\NotADoctor\src\main\java\NotaDoctor\NotADoctor\models\usermodels\ImmutableAddress.java
 C:\Users\Owner\Documents\PROJECTS\NotADoctor\src\main\java\NotaDoctor\NotADoctor\controllers\UserController.java
 C:\Users\Owner\Documents\PROJECTS\NotADoctor\src\main\java\NotaDoctor\NotADoctor\populator.java
+C:\Users\Owner\Documents\PROJECTS\NotADoctor\src\main\java\NotaDoctor\NotADoctor\models\usermodels\ImmutableName.java
