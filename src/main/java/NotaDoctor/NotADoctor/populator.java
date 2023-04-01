@@ -2,12 +2,13 @@ package NotaDoctor.NotADoctor;
 
 import NotaDoctor.NotADoctor.models.Symptoms;
 import NotaDoctor.NotADoctor.repositories.SymptomsRepository;
+import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
 import javax.annotation.Resource;
 
 @Component
-public class populator {
+public class populator implements CommandLineRunner {
     @Resource
     public SymptomsRepository symptomsRepo;
 
