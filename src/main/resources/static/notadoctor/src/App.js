@@ -7,12 +7,20 @@ function App() {
     <div className="App">
       <header className="App-header">
         
-        <h1>
-          Welcome to Not A Doctor! Our original Health Checker app to track your household's health history!
+        <h1 className={App.appTitle}>
+          Welcome ______
         </h1>
         
       </header>
+      <div className="sidebar">
+      <div className="profile">
+        <img src=""></img>
+        <h3>User's Name</h3>
+        <p>Family Relation</p>
+      </div>
+      </div>
     </div>
+
   );
 }
 

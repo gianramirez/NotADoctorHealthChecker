@@ -1,0 +1,36 @@
+
+*{
+    list-style: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body{
+    background: #f5f6fa;
+}
+
+.sidebar{
+    background: rgb(5, 68, 104);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 225px;
+    height: 100%;
+    padding: 20px 0;
+    transition: all 0.5 ease;
+    text-align: center;
+}
+.sidebar .profile img{
+    display: flex;
+    width: 100px;
+    height: 100px;
+    margin: 0;
+    padding-left: 60px;
+}
+h1 {
+    font-size: 45px;
+    text-align: right;
+}
