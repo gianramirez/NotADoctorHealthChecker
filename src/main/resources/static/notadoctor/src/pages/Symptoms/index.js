@@ -8,7 +8,7 @@ const SymptomsAPI = () => {
     
     useEffect(() => {
         const fetchSymptomsData = async () => {
-            const result = await Axios('http://localhost:8080');
+            const result = await Axios('http://localhost:8080/symptoms');
             setSymptoms(result.data);
             console.log(result.data);
 
